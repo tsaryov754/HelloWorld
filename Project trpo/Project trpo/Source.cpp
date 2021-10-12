@@ -62,6 +62,9 @@ int main() {
 		x = y;
 		y = z;
 	} while (z <= m);
+
+
+
 	system("pause");
 	return 0;
 }
