@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\BSUIR\github\HelloWorld\Project trpo\Project trpo\Source.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project trpo.vcxproj -> D:\BSUIR\github\HelloWorld\Project trpo\Debug\Project trpo.exe
