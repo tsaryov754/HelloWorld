@@ -50,10 +50,10 @@ int main() {
 		case 7:
 		case 8:
 		case 9: {cout << "Возраст: " << randNumb << " лет\n"; break; }
-		case 1: {cout << "Возраст: " << randNumb << " лет\n"; break; }
+		case 1: {cout << "Возраст: " << randNumb << " год\n"; break; }
 		case 2:
 		case 3:
-		case 4: {cout << "Возраст: " << randNumb << " лет\n"; }
+		case 4: {cout << "Возраст: " << randNumb << " года\n"; }
 		}
 
 	};
